@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,50,24,30&height=200&section=header&text=Satoshi%20Nakamoto%20Genesis%20v0.1&fontSize=46&fontAlignY=40&desc=PoW_SYSTEM_STATUS:%20ONLINE%20|%20Blockchain%20%2B%20Creator%20Revelation Block&descFontSize=18&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Satoshi%20Nakamoto%20Revelation%20v0.2&fontSize=46&fontAlignY=40&desc=PoW_SYSTEM_STATUS:%20ONLINE%20|%20Blockchain%20%2B%20Creator%20Revelation Block&descFontSize=18&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -11,7 +11,7 @@
 
 <pre>
 > Initiating startup sequence...
-> Loading legacy developer experience (Est. 2015)... [COMPLETE]
+> Loading legacy developer experience (Est. 1990)... [COMPLETE]
 > Integrating AI-assisted development layer... [ACTIVE]
 > Initializing blockchain architecture systems... [RUNNING]
 > "Mission: Build meaningful decentralized systems powered by intelligence and purpose."
