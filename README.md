@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Satoshi%20Nakamoto%20Revelation%20v0.2&fontSize=46&fontAlignY=40&desc=PoW_SYSTEM_STATUS:%20ONLINE%20|%20Blockchain%20%2B%20Creator%20Revelation Block&descFontSize=18&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Satoshi%20Nakamoto%20Revelation%20v0.2&fontSize=46&fontAlignY=40&desc=PoW_SYSTEM_STATUS:%20ONLINE%20|%20Blockchain%20%2B%20Creator%20Revelation%20Block&descFontSize=18&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<br/>
+</div>
+
+---
 
 ### Mainframe Protocol
+
 <div align="center">
 
 <pre>
@@ -22,6 +25,7 @@
 ---
 
 ### Primary System: Proof of Work
+
 <div align="center">
 
 <pre>
@@ -34,7 +38,7 @@
 </div>
 
 Bitcoin Revelation Edition operates as a decentralized innovation environment where  
-<b>blockchain engineering, AI-assisted development, and future systems design</b>  
+**blockchain engineering, AI-assisted development, and future systems design**  
 converge into real, working technology.
 
 ---
@@ -42,10 +46,10 @@ converge into real, working technology.
 ### Live System Status
 
 <p align="center">
-<img src="https://img.shields.io/badge/Blockchain%20Research-ONLINE-ff6ec7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Development-ACTIVE-6e8efb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Consensus-POW%20SECURED-f9d423?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Mode-FOCUSED-42e695?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain%20Research-ONLINE-ff6ec7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Development-ACTIVE-6e8efb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Consensus-POW%20SECURED-f9d423?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Mode-FOCUSED-42e695?style=for-the-badge" />
 </p>
 
 <div align="center">
@@ -62,6 +66,7 @@ converge into real, working technology.
 ---
 
 ### ₿ Bitcoin Owner Layer
+
 <div align="center">
 
 <pre>
@@ -80,26 +85,27 @@ and trust-minimized system design.
 ### System Modules
 
 <p align="center">
-<img src="https://img.shields.io/badge/BLOCKCHAIN-Protocol_Design-black?style=flat-square&logo=bitcoin&logoColor=white" />
-<img src="https://img.shields.io/badge/ARCHITECTURE-UTXO_Model-black?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/NETWORK-Distributed_Systems-black?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLOCKCHAIN-Protocol_Design-black?style=flat-square&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-UTXO_Model-black?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/NETWORK-Distributed_Systems-black?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CORE-Rust-black?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/CORE-Python-black?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Development_Workflows-black?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORE-Rust-black?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORE-Python-black?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Development_Workflows-black?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/CONTAINER-Docker-black?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/VERSION-Git-black?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTAINER-Docker-black?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VERSION-Git-black?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### AI Integration Layer
+
 <div align="center">
 
 <pre>
@@ -113,7 +119,9 @@ and trust-minimized system design.
 AI functions as a force multiplier — enabling faster execution while maintaining  
 strong engineering discipline and architectural clarity.
 
-<br>
+<br/>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&section=footer&text=END_OF_TRANSMISSION&fontSize=16&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1"/>
 
