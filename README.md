@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,10,10,30&height=200&section=header&text=Satoshi%20Nakamoto%20Genesis%20v0.1&fontSize=46&fontAlignY=40&desc=PoW_SYSTEM_STATUS:%20ONLINE%20|%20Blockchain%20%2B%20Creator%20Revelation Block&descFontSize=18&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,11,12,30&height=200&section=header&text=Satoshi%20Nakamoto%20Genesis%20v0.1&fontSize=46&fontAlignY=40&desc=PoW_SYSTEM_STATUS:%20ONLINE%20|%20Blockchain%20%2B%20Creator%20Revelation Block&descFontSize=18&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
